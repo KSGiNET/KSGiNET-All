@@ -5,4 +5,4 @@
 - I'm eager to collaborate on projects related to artificial intelligence development and creating smart solutions
 - You can reach me at ksginet@gmail.com or through Telegram: [@ctackup](https://t.me/ctackup)
 - When not behind the computer, I enjoy classical music, cook inspiring dishes, and love fantastic movies
-> Nothing is clear, but very interesting!  2024©
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" title=python width=20 height=20 /> *Nothing is clear, but very interesting!  2024©*
